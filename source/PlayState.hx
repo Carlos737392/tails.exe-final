@@ -586,6 +586,8 @@ class PlayState extends MusicBeatState
 		
 		gradient = new FlxSprite().loadGraphic(Paths.image('stages/burningGhz/gradientBurn2', 'sadfox'));
 		gradient.alpha = 0;
+		gradient.scale.set(2, 2);
+		gradient.updateHitbox();
 
 		blackvg = new FlxSprite().loadGraphic(Paths.image('black-vignette', 'sadfox'));
 		blackvg.alpha = 0;
@@ -665,6 +667,7 @@ class PlayState extends MusicBeatState
 
 				var grd:BGSprite = new BGSprite('stages/ghz/groundHappy', -300, -400, 1, 1);
 				grd.setGraphicSize(Std.int(grd.width * 2));
+				grd.scale.set(2, 2);
 				grd.updateHitbox();
 				grd.antialiasing = ClientPrefs.globalAntialiasing;
 				add(grd);
@@ -690,6 +693,7 @@ class PlayState extends MusicBeatState
 
 					grd2 = new BGSprite('stages/burningGhz/groundBurn', -300, -400, 1, 1);
 					grd2.setGraphicSize(Std.int(grd2.width * 2));
+					grd2.scale.set(2, 2);
 					grd2.updateHitbox();
 					grd2.antialiasing = ClientPrefs.globalAntialiasing;
 					grd2.visible = false;
@@ -806,6 +810,7 @@ class PlayState extends MusicBeatState
 
 				var grd:BGSprite = new BGSprite('stages/burningGhz/groundBurn', -300, -400, 1, 1);
 				grd.setGraphicSize(Std.int(grd.width * 2));
+				grd.scale.set(2, 2);
 				grd.updateHitbox();
 				grd.antialiasing = ClientPrefs.globalAntialiasing;
 				add(grd);
@@ -837,6 +842,7 @@ class PlayState extends MusicBeatState
 
 				grdS = new BGSprite('stages/ghzSun/ground', -300, -400, 1, 1);
 				grdS.setGraphicSize(Std.int(grdS.width * 2));
+				grdS.scale.set(2, 2);
 				grdS.updateHitbox();
 				grdS.antialiasing = ClientPrefs.globalAntialiasing;
 				add(grdS);
@@ -850,6 +856,7 @@ class PlayState extends MusicBeatState
 
 				grd2 = new BGSprite('stages/ghz/groundHappy', -300, -400, 1, 1);
 				grd2.setGraphicSize(Std.int(grd2.width * 2));
+				grd2.scale.set(2, 2);
 				grd2.updateHitbox();
 				grd2.antialiasing = ClientPrefs.globalAntialiasing;
 				grd2.visible = false;
@@ -857,6 +864,7 @@ class PlayState extends MusicBeatState
 
 				shineThing = new FlxSprite(-550, -300).loadGraphic(Paths.image('stages/ghzSun/shine', 'sadfox'));
 				shineThing.setGraphicSize(Std.int(shineThing.width * 1.8));
+				shineThing.scale.set(2, 2);
 				shineThing.updateHitbox();
 				shineThing.antialiasing = ClientPrefs.globalAntialiasing;
 				shineThing.scrollFactor.set(0.3, 0.3);
