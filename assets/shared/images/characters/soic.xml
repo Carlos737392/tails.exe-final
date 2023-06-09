@@ -1,159 +1,159 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TextureAtlas imagePath="soic.png">
-	<!-- Created with Adobe Animate version 22.0.3.179 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Soic Action0000" x="0" y="0" width="365" height="462" frameX="-21" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0001" x="365" y="0" width="373" height="468" frameX="-13" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0002" x="738" y="0" width="359" height="475" frameX="-27" frameY="-12" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0003" x="1097" y="0" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0004" x="1462" y="0" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0005" x="1462" y="0" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0006" x="1462" y="0" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0007" x="1462" y="0" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0008" x="1462" y="0" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0009" x="1827" y="0" width="377" height="467" frameX="-7" frameY="-20" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0010" x="2204" y="0" width="384" height="462" frameX="0" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0011" x="2588" y="0" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0012" x="2966" y="0" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0013" x="3344" y="0" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0014" x="0" y="475" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0015" x="3344" y="0" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0016" x="378" y="475" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0017" x="3344" y="0" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0018" x="756" y="475" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0019" x="3344" y="0" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0020" x="1134" y="475" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0021" x="1512" y="475" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0022" x="1890" y="475" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0023" x="2268" y="475" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0024" x="2268" y="475" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0025" x="2646" y="475" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0026" x="3024" y="475" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0027" x="3024" y="475" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0028" x="3402" y="475" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0029" x="3402" y="475" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0030" x="3402" y="475" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0031" x="0" y="937" width="378" height="462" frameX="-6" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0032" x="378" y="937" width="369" height="467" frameX="-17" frameY="-20" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0033" x="747" y="937" width="365" height="470" frameX="-21" frameY="-17" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0034" x="1112" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0035" x="1477" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0036" x="1112" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0037" x="1477" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0038" x="1112" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0039" x="1477" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0040" x="1842" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0041" x="2207" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0042" x="2207" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0043" x="2572" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0044" x="1842" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0045" x="1112" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0046" x="1477" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0047" x="1112" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0048" x="1477" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0049" x="1112" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0050" x="1477" y="937" width="365" height="468" frameX="-21" frameY="-19" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0051" x="2937" y="937" width="365" height="466" frameX="-21" frameY="-21" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0052" x="3302" y="937" width="365" height="462" frameX="-21" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0053" x="3302" y="937" width="365" height="462" frameX="-21" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0054" x="3302" y="937" width="365" height="462" frameX="-21" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0055" x="3667" y="937" width="365" height="452" frameX="-21" frameY="-35" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0056" x="0" y="1407" width="365" height="447" frameX="-21" frameY="-40" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0057" x="365" y="1407" width="377" height="462" frameX="-9" frameY="-25" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0058" x="742" y="1407" width="370" height="474" frameX="-16" frameY="-13" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0059" x="1112" y="1407" width="366" height="487" frameX="-20" frameY="0" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0060" x="1478" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0061" x="1843" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0062" x="1478" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0063" x="1843" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0064" x="1478" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0065" x="1843" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0066" x="1478" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0067" x="1843" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0068" x="1478" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0069" x="1843" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0070" x="1478" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0071" x="1843" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0072" x="1478" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0073" x="1843" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0074" x="1478" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0075" x="1843" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0076" x="1478" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0077" x="1843" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Action0078" x="1478" y="1407" width="365" height="480" frameX="-21" frameY="-7" frameWidth="386" frameHeight="487"/>
-	<SubTexture name="Soic Down0000" x="2208" y="1407" width="389" height="417" frameX="0" frameY="-15" frameWidth="389" frameHeight="432"/>
-	<SubTexture name="Soic Down0001" x="2597" y="1407" width="381" height="419" frameX="-8" frameY="-13" frameWidth="389" frameHeight="432"/>
-	<SubTexture name="Soic Down0002" x="2978" y="1407" width="365" height="432" frameX="-16" frameY="0" frameWidth="389" frameHeight="432"/>
-	<SubTexture name="Soic Down0003" x="3343" y="1407" width="365" height="432" frameX="-16" frameY="0" frameWidth="389" frameHeight="432"/>
-	<SubTexture name="Soic Down0004" x="2978" y="1407" width="365" height="432" frameX="-16" frameY="0" frameWidth="389" frameHeight="432"/>
-	<SubTexture name="Soic Down0005" x="3343" y="1407" width="365" height="432" frameX="-16" frameY="0" frameWidth="389" frameHeight="432"/>
-	<SubTexture name="Soic Down0006" x="2978" y="1407" width="365" height="432" frameX="-16" frameY="0" frameWidth="389" frameHeight="432"/>
-	<SubTexture name="Soic Down0007" x="3343" y="1407" width="365" height="432" frameX="-16" frameY="0" frameWidth="389" frameHeight="432"/>
-	<SubTexture name="Soic Down0008" x="2978" y="1407" width="365" height="432" frameX="-16" frameY="0" frameWidth="389" frameHeight="432"/>
-	<SubTexture name="Soic Down0009" x="3343" y="1407" width="365" height="432" frameX="-16" frameY="0" frameWidth="389" frameHeight="432"/>
-	<SubTexture name="Soic Down0010" x="2978" y="1407" width="365" height="432" frameX="-16" frameY="0" frameWidth="389" frameHeight="432"/>
-	<SubTexture name="Soic Down0011" x="3343" y="1407" width="365" height="432" frameX="-16" frameY="0" frameWidth="389" frameHeight="432"/>
-	<SubTexture name="Soic Down0012" x="2978" y="1407" width="365" height="432" frameX="-16" frameY="0" frameWidth="389" frameHeight="432"/>
-	<SubTexture name="Soic Down0013" x="3343" y="1407" width="365" height="432" frameX="-16" frameY="0" frameWidth="389" frameHeight="432"/>
-	<SubTexture name="Soic Down0014" x="2978" y="1407" width="365" height="432" frameX="-16" frameY="0" frameWidth="389" frameHeight="432"/>
-	<SubTexture name="Soic Idle0000" x="3708" y="1407" width="384" height="416" frameX="0" frameY="-46" frameWidth="384" frameHeight="462"/>
-	<SubTexture name="Soic Idle0001" x="3708" y="1407" width="384" height="416" frameX="0" frameY="-46" frameWidth="384" frameHeight="462"/>
-	<SubTexture name="Soic Idle0002" x="0" y="1894" width="375" height="439" frameX="-5" frameY="-23" frameWidth="384" frameHeight="462"/>
-	<SubTexture name="Soic Idle0003" x="0" y="1894" width="375" height="439" frameX="-5" frameY="-23" frameWidth="384" frameHeight="462"/>
-	<SubTexture name="Soic Idle0004" x="375" y="1894" width="370" height="455" frameX="-8" frameY="-7" frameWidth="384" frameHeight="462"/>
-	<SubTexture name="Soic Idle0005" x="375" y="1894" width="370" height="455" frameX="-8" frameY="-7" frameWidth="384" frameHeight="462"/>
-	<SubTexture name="Soic Idle0006" x="745" y="1894" width="366" height="461" frameX="-11" frameY="-1" frameWidth="384" frameHeight="462"/>
-	<SubTexture name="Soic Idle0007" x="745" y="1894" width="366" height="461" frameX="-11" frameY="-1" frameWidth="384" frameHeight="462"/>
-	<SubTexture name="Soic Idle0008" x="1111" y="1894" width="365" height="462" frameX="-11" frameY="0" frameWidth="384" frameHeight="462"/>
-	<SubTexture name="Soic Idle0009" x="1476" y="1894" width="365" height="462" frameX="-11" frameY="0" frameWidth="384" frameHeight="462"/>
-	<SubTexture name="Soic Idle0010" x="1476" y="1894" width="365" height="462" frameX="-11" frameY="0" frameWidth="384" frameHeight="462"/>
-	<SubTexture name="Soic Idle0011" x="1476" y="1894" width="365" height="462" frameX="-11" frameY="0" frameWidth="384" frameHeight="462"/>
-	<SubTexture name="Soic Idle0012" x="1476" y="1894" width="365" height="462" frameX="-11" frameY="0" frameWidth="384" frameHeight="462"/>
-	<SubTexture name="Soic Idle0013" x="1476" y="1894" width="365" height="462" frameX="-11" frameY="0" frameWidth="384" frameHeight="462"/>
-	<SubTexture name="Soic Idle0014" x="1476" y="1894" width="365" height="462" frameX="-11" frameY="0" frameWidth="384" frameHeight="462"/>
-	<SubTexture name="Soic Left sexso0000" x="1841" y="1894" width="376" height="462" frameX="0" frameY="0" frameWidth="377" frameHeight="462"/>
-	<SubTexture name="Soic Left sexso0001" x="2217" y="1894" width="372" height="462" frameX="-4" frameY="0" frameWidth="377" frameHeight="462"/>
-	<SubTexture name="Soic Left sexso0002" x="2589" y="1894" width="369" height="462" frameX="-8" frameY="0" frameWidth="377" frameHeight="462"/>
-	<SubTexture name="Soic Left sexso0003" x="2958" y="1894" width="369" height="462" frameX="-8" frameY="0" frameWidth="377" frameHeight="462"/>
-	<SubTexture name="Soic Left sexso0004" x="2589" y="1894" width="369" height="462" frameX="-8" frameY="0" frameWidth="377" frameHeight="462"/>
-	<SubTexture name="Soic Left sexso0005" x="2958" y="1894" width="369" height="462" frameX="-8" frameY="0" frameWidth="377" frameHeight="462"/>
-	<SubTexture name="Soic Left sexso0006" x="2589" y="1894" width="369" height="462" frameX="-8" frameY="0" frameWidth="377" frameHeight="462"/>
-	<SubTexture name="Soic Left sexso0007" x="2958" y="1894" width="369" height="462" frameX="-8" frameY="0" frameWidth="377" frameHeight="462"/>
-	<SubTexture name="Soic Left sexso0008" x="2589" y="1894" width="369" height="462" frameX="-8" frameY="0" frameWidth="377" frameHeight="462"/>
-	<SubTexture name="Soic Left sexso0009" x="2958" y="1894" width="369" height="462" frameX="-8" frameY="0" frameWidth="377" frameHeight="462"/>
-	<SubTexture name="Soic Left sexso0010" x="2589" y="1894" width="369" height="462" frameX="-8" frameY="0" frameWidth="377" frameHeight="462"/>
-	<SubTexture name="Soic Left sexso0011" x="2958" y="1894" width="369" height="462" frameX="-8" frameY="0" frameWidth="377" frameHeight="462"/>
-	<SubTexture name="Soic Left sexso0012" x="2589" y="1894" width="369" height="462" frameX="-8" frameY="0" frameWidth="377" frameHeight="462"/>
-	<SubTexture name="Soic Left sexso0013" x="2958" y="1894" width="369" height="462" frameX="-8" frameY="0" frameWidth="377" frameHeight="462"/>
-	<SubTexture name="Soic Left sexso0014" x="2589" y="1894" width="369" height="462" frameX="-8" frameY="0" frameWidth="377" frameHeight="462"/>
-	<SubTexture name="Soic Right0000" x="3327" y="1894" width="341" height="462" frameX="-10" frameY="0" frameWidth="351" frameHeight="462"/>
-	<SubTexture name="Soic Right0001" x="3668" y="1894" width="344" height="462" frameX="-7" frameY="0" frameWidth="351" frameHeight="462"/>
-	<SubTexture name="Soic Right0002" x="0" y="2356" width="350" height="462" frameX="0" frameY="0" frameWidth="351" frameHeight="462"/>
-	<SubTexture name="Soic Right0003" x="350" y="2356" width="350" height="462" frameX="0" frameY="0" frameWidth="351" frameHeight="462"/>
-	<SubTexture name="Soic Right0004" x="0" y="2356" width="350" height="462" frameX="0" frameY="0" frameWidth="351" frameHeight="462"/>
-	<SubTexture name="Soic Right0005" x="350" y="2356" width="350" height="462" frameX="0" frameY="0" frameWidth="351" frameHeight="462"/>
-	<SubTexture name="Soic Right0006" x="0" y="2356" width="350" height="462" frameX="0" frameY="0" frameWidth="351" frameHeight="462"/>
-	<SubTexture name="Soic Right0007" x="350" y="2356" width="350" height="462" frameX="0" frameY="0" frameWidth="351" frameHeight="462"/>
-	<SubTexture name="Soic Right0008" x="0" y="2356" width="350" height="462" frameX="0" frameY="0" frameWidth="351" frameHeight="462"/>
-	<SubTexture name="Soic Right0009" x="350" y="2356" width="350" height="462" frameX="0" frameY="0" frameWidth="351" frameHeight="462"/>
-	<SubTexture name="Soic Right0010" x="0" y="2356" width="350" height="462" frameX="0" frameY="0" frameWidth="351" frameHeight="462"/>
-	<SubTexture name="Soic Right0011" x="350" y="2356" width="350" height="462" frameX="0" frameY="0" frameWidth="351" frameHeight="462"/>
-	<SubTexture name="Soic Right0012" x="0" y="2356" width="350" height="462" frameX="0" frameY="0" frameWidth="351" frameHeight="462"/>
-	<SubTexture name="Soic Right0013" x="350" y="2356" width="350" height="462" frameX="0" frameY="0" frameWidth="351" frameHeight="462"/>
-	<SubTexture name="Soic Right0014" x="0" y="2356" width="350" height="462" frameX="0" frameY="0" frameWidth="351" frameHeight="462"/>
-	<SubTexture name="Soic Up0000" x="700" y="2356" width="375" height="469" frameX="0" frameY="0" frameWidth="376" frameHeight="469"/>
-	<SubTexture name="Soic Up0001" x="1075" y="2356" width="370" height="468" frameX="-5" frameY="-1" frameWidth="376" frameHeight="469"/>
-	<SubTexture name="Soic Up0002" x="1445" y="2356" width="365" height="465" frameX="-11" frameY="-4" frameWidth="376" frameHeight="469"/>
-	<SubTexture name="Soic Up0003" x="1810" y="2356" width="365" height="465" frameX="-11" frameY="-4" frameWidth="376" frameHeight="469"/>
-	<SubTexture name="Soic Up0004" x="1445" y="2356" width="365" height="465" frameX="-11" frameY="-4" frameWidth="376" frameHeight="469"/>
-	<SubTexture name="Soic Up0005" x="1810" y="2356" width="365" height="465" frameX="-11" frameY="-4" frameWidth="376" frameHeight="469"/>
-	<SubTexture name="Soic Up0006" x="1445" y="2356" width="365" height="465" frameX="-11" frameY="-4" frameWidth="376" frameHeight="469"/>
-	<SubTexture name="Soic Up0007" x="1810" y="2356" width="365" height="465" frameX="-11" frameY="-4" frameWidth="376" frameHeight="469"/>
-	<SubTexture name="Soic Up0008" x="1445" y="2356" width="365" height="465" frameX="-11" frameY="-4" frameWidth="376" frameHeight="469"/>
-	<SubTexture name="Soic Up0009" x="1810" y="2356" width="365" height="465" frameX="-11" frameY="-4" frameWidth="376" frameHeight="469"/>
-	<SubTexture name="Soic Up0010" x="1445" y="2356" width="365" height="465" frameX="-11" frameY="-4" frameWidth="376" frameHeight="469"/>
-	<SubTexture name="Soic Up0011" x="1810" y="2356" width="365" height="465" frameX="-11" frameY="-4" frameWidth="376" frameHeight="469"/>
-	<SubTexture name="Soic Up0012" x="1445" y="2356" width="365" height="465" frameX="-11" frameY="-4" frameWidth="376" frameHeight="469"/>
-	<SubTexture name="Soic Up0013" x="1810" y="2356" width="365" height="465" frameX="-11" frameY="-4" frameWidth="376" frameHeight="469"/>
-	<SubTexture name="Soic Up0014" x="1445" y="2356" width="365" height="465" frameX="-11" frameY="-4" frameWidth="376" frameHeight="469"/>
+	
+	
+	<SubTexture name="Soic Action0000" x="0" y="0" width="182" height="231" frameX="-11" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0001" x="182" y="0" width="186" height="234" frameX="-7" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0002" x="369" y="0" width="179" height="237" frameX="-14" frameY="-6" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0003" x="548" y="0" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0004" x="731" y="0" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0005" x="731" y="0" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0006" x="731" y="0" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0007" x="731" y="0" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0008" x="731" y="0" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0009" x="913" y="0" width="188" height="233" frameX="-4" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0010" x="1102" y="0" width="192" height="231" frameX="0" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0011" x="1294" y="0" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0012" x="1483" y="0" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0013" x="1672" y="0" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0014" x="0" y="237" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0015" x="1672" y="0" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0016" x="189" y="237" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0017" x="1672" y="0" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0018" x="378" y="237" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0019" x="1672" y="0" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0020" x="567" y="237" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0021" x="756" y="237" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0022" x="945" y="237" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0023" x="1134" y="237" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0024" x="1134" y="237" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0025" x="1323" y="237" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0026" x="1512" y="237" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0027" x="1512" y="237" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0028" x="1701" y="237" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0029" x="1701" y="237" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0030" x="1701" y="237" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0031" x="0" y="468" width="189" height="231" frameX="-3" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0032" x="189" y="468" width="184" height="233" frameX="-9" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0033" x="373" y="468" width="182" height="235" frameX="-11" frameY="-9" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0034" x="556" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0035" x="738" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0036" x="556" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0037" x="738" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0038" x="556" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0039" x="738" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0040" x="921" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0041" x="1103" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0042" x="1103" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0043" x="1286" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0044" x="921" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0045" x="556" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0046" x="738" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0047" x="556" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0048" x="738" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0049" x="556" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0050" x="738" y="468" width="182" height="234" frameX="-11" frameY="-10" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0051" x="1468" y="468" width="182" height="233" frameX="-11" frameY="-11" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0052" x="1651" y="468" width="182" height="231" frameX="-11" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0053" x="1651" y="468" width="182" height="231" frameX="-11" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0054" x="1651" y="468" width="182" height="231" frameX="-11" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0055" x="1833" y="468" width="182" height="226" frameX="-11" frameY="-18" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0056" x="0" y="703" width="182" height="223" frameX="-11" frameY="-20" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0057" x="182" y="703" width="188" height="231" frameX="-5" frameY="-13" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0058" x="371" y="703" width="185" height="237" frameX="-8" frameY="-7" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0059" x="556" y="703" width="183" height="243" frameX="-10" frameY="0" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0060" x="739" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0061" x="921" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0062" x="739" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0063" x="921" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0064" x="739" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0065" x="921" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0066" x="739" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0067" x="921" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0068" x="739" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0069" x="921" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0070" x="739" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0071" x="921" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0072" x="739" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0073" x="921" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0074" x="739" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0075" x="921" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0076" x="739" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0077" x="921" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Action0078" x="739" y="703" width="182" height="240" frameX="-11" frameY="-4" frameWidth="193" frameHeight="243" />
+	<SubTexture name="Soic Down0000" x="1104" y="703" width="194" height="208" frameX="0" frameY="-8" frameWidth="194" frameHeight="216" />
+	<SubTexture name="Soic Down0001" x="1298" y="703" width="190" height="209" frameX="-4" frameY="-7" frameWidth="194" frameHeight="216" />
+	<SubTexture name="Soic Down0002" x="1489" y="703" width="182" height="216" frameX="-8" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="Soic Down0003" x="1671" y="703" width="182" height="216" frameX="-8" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="Soic Down0004" x="1489" y="703" width="182" height="216" frameX="-8" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="Soic Down0005" x="1671" y="703" width="182" height="216" frameX="-8" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="Soic Down0006" x="1489" y="703" width="182" height="216" frameX="-8" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="Soic Down0007" x="1671" y="703" width="182" height="216" frameX="-8" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="Soic Down0008" x="1489" y="703" width="182" height="216" frameX="-8" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="Soic Down0009" x="1671" y="703" width="182" height="216" frameX="-8" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="Soic Down0010" x="1489" y="703" width="182" height="216" frameX="-8" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="Soic Down0011" x="1671" y="703" width="182" height="216" frameX="-8" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="Soic Down0012" x="1489" y="703" width="182" height="216" frameX="-8" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="Soic Down0013" x="1671" y="703" width="182" height="216" frameX="-8" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="Soic Down0014" x="1489" y="703" width="182" height="216" frameX="-8" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="Soic Idle0000" x="1854" y="703" width="192" height="208" frameX="0" frameY="-23" frameWidth="192" frameHeight="231" />
+	<SubTexture name="Soic Idle0001" x="1854" y="703" width="192" height="208" frameX="0" frameY="-23" frameWidth="192" frameHeight="231" />
+	<SubTexture name="Soic Idle0002" x="0" y="947" width="187" height="219" frameX="-3" frameY="-12" frameWidth="192" frameHeight="231" />
+	<SubTexture name="Soic Idle0003" x="0" y="947" width="187" height="219" frameX="-3" frameY="-12" frameWidth="192" frameHeight="231" />
+	<SubTexture name="Soic Idle0004" x="187" y="947" width="185" height="227" frameX="-4" frameY="-4" frameWidth="192" frameHeight="231" />
+	<SubTexture name="Soic Idle0005" x="187" y="947" width="185" height="227" frameX="-4" frameY="-4" frameWidth="192" frameHeight="231" />
+	<SubTexture name="Soic Idle0006" x="372" y="947" width="183" height="230" frameX="-6" frameY="-1" frameWidth="192" frameHeight="231" />
+	<SubTexture name="Soic Idle0007" x="372" y="947" width="183" height="230" frameX="-6" frameY="-1" frameWidth="192" frameHeight="231" />
+	<SubTexture name="Soic Idle0008" x="555" y="947" width="182" height="231" frameX="-6" frameY="0" frameWidth="192" frameHeight="231" />
+	<SubTexture name="Soic Idle0009" x="738" y="947" width="182" height="231" frameX="-6" frameY="0" frameWidth="192" frameHeight="231" />
+	<SubTexture name="Soic Idle0010" x="738" y="947" width="182" height="231" frameX="-6" frameY="0" frameWidth="192" frameHeight="231" />
+	<SubTexture name="Soic Idle0011" x="738" y="947" width="182" height="231" frameX="-6" frameY="0" frameWidth="192" frameHeight="231" />
+	<SubTexture name="Soic Idle0012" x="738" y="947" width="182" height="231" frameX="-6" frameY="0" frameWidth="192" frameHeight="231" />
+	<SubTexture name="Soic Idle0013" x="738" y="947" width="182" height="231" frameX="-6" frameY="0" frameWidth="192" frameHeight="231" />
+	<SubTexture name="Soic Idle0014" x="738" y="947" width="182" height="231" frameX="-6" frameY="0" frameWidth="192" frameHeight="231" />
+	<SubTexture name="Soic Left sexso0000" x="920" y="947" width="188" height="231" frameX="0" frameY="0" frameWidth="188" frameHeight="231" />
+	<SubTexture name="Soic Left sexso0001" x="1108" y="947" width="186" height="231" frameX="-2" frameY="0" frameWidth="188" frameHeight="231" />
+	<SubTexture name="Soic Left sexso0002" x="1294" y="947" width="184" height="231" frameX="-4" frameY="0" frameWidth="188" frameHeight="231" />
+	<SubTexture name="Soic Left sexso0003" x="1479" y="947" width="184" height="231" frameX="-4" frameY="0" frameWidth="188" frameHeight="231" />
+	<SubTexture name="Soic Left sexso0004" x="1294" y="947" width="184" height="231" frameX="-4" frameY="0" frameWidth="188" frameHeight="231" />
+	<SubTexture name="Soic Left sexso0005" x="1479" y="947" width="184" height="231" frameX="-4" frameY="0" frameWidth="188" frameHeight="231" />
+	<SubTexture name="Soic Left sexso0006" x="1294" y="947" width="184" height="231" frameX="-4" frameY="0" frameWidth="188" frameHeight="231" />
+	<SubTexture name="Soic Left sexso0007" x="1479" y="947" width="184" height="231" frameX="-4" frameY="0" frameWidth="188" frameHeight="231" />
+	<SubTexture name="Soic Left sexso0008" x="1294" y="947" width="184" height="231" frameX="-4" frameY="0" frameWidth="188" frameHeight="231" />
+	<SubTexture name="Soic Left sexso0009" x="1479" y="947" width="184" height="231" frameX="-4" frameY="0" frameWidth="188" frameHeight="231" />
+	<SubTexture name="Soic Left sexso0010" x="1294" y="947" width="184" height="231" frameX="-4" frameY="0" frameWidth="188" frameHeight="231" />
+	<SubTexture name="Soic Left sexso0011" x="1479" y="947" width="184" height="231" frameX="-4" frameY="0" frameWidth="188" frameHeight="231" />
+	<SubTexture name="Soic Left sexso0012" x="1294" y="947" width="184" height="231" frameX="-4" frameY="0" frameWidth="188" frameHeight="231" />
+	<SubTexture name="Soic Left sexso0013" x="1479" y="947" width="184" height="231" frameX="-4" frameY="0" frameWidth="188" frameHeight="231" />
+	<SubTexture name="Soic Left sexso0014" x="1294" y="947" width="184" height="231" frameX="-4" frameY="0" frameWidth="188" frameHeight="231" />
+	<SubTexture name="Soic Right0000" x="1663" y="947" width="170" height="231" frameX="-5" frameY="0" frameWidth="175" frameHeight="231" />
+	<SubTexture name="Soic Right0001" x="1834" y="947" width="172" height="231" frameX="-4" frameY="0" frameWidth="175" frameHeight="231" />
+	<SubTexture name="Soic Right0002" x="0" y="1178" width="175" height="231" frameX="0" frameY="0" frameWidth="175" frameHeight="231" />
+	<SubTexture name="Soic Right0003" x="175" y="1178" width="175" height="231" frameX="0" frameY="0" frameWidth="175" frameHeight="231" />
+	<SubTexture name="Soic Right0004" x="0" y="1178" width="175" height="231" frameX="0" frameY="0" frameWidth="175" frameHeight="231" />
+	<SubTexture name="Soic Right0005" x="175" y="1178" width="175" height="231" frameX="0" frameY="0" frameWidth="175" frameHeight="231" />
+	<SubTexture name="Soic Right0006" x="0" y="1178" width="175" height="231" frameX="0" frameY="0" frameWidth="175" frameHeight="231" />
+	<SubTexture name="Soic Right0007" x="175" y="1178" width="175" height="231" frameX="0" frameY="0" frameWidth="175" frameHeight="231" />
+	<SubTexture name="Soic Right0008" x="0" y="1178" width="175" height="231" frameX="0" frameY="0" frameWidth="175" frameHeight="231" />
+	<SubTexture name="Soic Right0009" x="175" y="1178" width="175" height="231" frameX="0" frameY="0" frameWidth="175" frameHeight="231" />
+	<SubTexture name="Soic Right0010" x="0" y="1178" width="175" height="231" frameX="0" frameY="0" frameWidth="175" frameHeight="231" />
+	<SubTexture name="Soic Right0011" x="175" y="1178" width="175" height="231" frameX="0" frameY="0" frameWidth="175" frameHeight="231" />
+	<SubTexture name="Soic Right0012" x="0" y="1178" width="175" height="231" frameX="0" frameY="0" frameWidth="175" frameHeight="231" />
+	<SubTexture name="Soic Right0013" x="175" y="1178" width="175" height="231" frameX="0" frameY="0" frameWidth="175" frameHeight="231" />
+	<SubTexture name="Soic Right0014" x="0" y="1178" width="175" height="231" frameX="0" frameY="0" frameWidth="175" frameHeight="231" />
+	<SubTexture name="Soic Up0000" x="350" y="1178" width="187" height="234" frameX="0" frameY="0" frameWidth="188" frameHeight="234" />
+	<SubTexture name="Soic Up0001" x="537" y="1178" width="185" height="234" frameX="-3" frameY="-1" frameWidth="188" frameHeight="234" />
+	<SubTexture name="Soic Up0002" x="722" y="1178" width="182" height="232" frameX="-6" frameY="-2" frameWidth="188" frameHeight="234" />
+	<SubTexture name="Soic Up0003" x="905" y="1178" width="182" height="232" frameX="-6" frameY="-2" frameWidth="188" frameHeight="234" />
+	<SubTexture name="Soic Up0004" x="722" y="1178" width="182" height="232" frameX="-6" frameY="-2" frameWidth="188" frameHeight="234" />
+	<SubTexture name="Soic Up0005" x="905" y="1178" width="182" height="232" frameX="-6" frameY="-2" frameWidth="188" frameHeight="234" />
+	<SubTexture name="Soic Up0006" x="722" y="1178" width="182" height="232" frameX="-6" frameY="-2" frameWidth="188" frameHeight="234" />
+	<SubTexture name="Soic Up0007" x="905" y="1178" width="182" height="232" frameX="-6" frameY="-2" frameWidth="188" frameHeight="234" />
+	<SubTexture name="Soic Up0008" x="722" y="1178" width="182" height="232" frameX="-6" frameY="-2" frameWidth="188" frameHeight="234" />
+	<SubTexture name="Soic Up0009" x="905" y="1178" width="182" height="232" frameX="-6" frameY="-2" frameWidth="188" frameHeight="234" />
+	<SubTexture name="Soic Up0010" x="722" y="1178" width="182" height="232" frameX="-6" frameY="-2" frameWidth="188" frameHeight="234" />
+	<SubTexture name="Soic Up0011" x="905" y="1178" width="182" height="232" frameX="-6" frameY="-2" frameWidth="188" frameHeight="234" />
+	<SubTexture name="Soic Up0012" x="722" y="1178" width="182" height="232" frameX="-6" frameY="-2" frameWidth="188" frameHeight="234" />
+	<SubTexture name="Soic Up0013" x="905" y="1178" width="182" height="232" frameX="-6" frameY="-2" frameWidth="188" frameHeight="234" />
+	<SubTexture name="Soic Up0014" x="722" y="1178" width="182" height="232" frameX="-6" frameY="-2" frameWidth="188" frameHeight="234" />
 </TextureAtlas>
