@@ -1,77 +1,77 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "Soic Idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Soic Idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				1,
 				0
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "Soic Left sexso",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Soic Left sexso"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				5,
 				-30
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Soic Down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Soic Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				7
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Soic Up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Soic Up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-30,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Soic Right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Soic Right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "action",
+			"loop": false,
 			"fps": 24,
-			"name": "Soic Action",
-			"indices": []
+			"anim": "action",
+			"indices": [],
+			"name": "Soic Action"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/soic",
 	"position": [
-		30,
-		320
+		120,
+		420
 	],
 	"healthicon": "soic",
 	"flip_x": false,
@@ -82,8 +82,8 @@
 	],
 	"camera_position": [
 		0,
-		0
+		-120
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 2
 }

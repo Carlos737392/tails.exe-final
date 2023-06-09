@@ -1,34 +1,34 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				60,
 				-220
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "h0004"
+			"fps": 24,
+			"name": "h0004",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/guh",
 	"position": [
-		30,
-		320
+		80,
+		440
 	],
 	"healthicon": "stoner",
 	"flip_x": false,
 	"healthbar_colors": [
 		246,
 		175,
-		86
+		106
 	],
 	"camera_position": [
-		0,
-		0
+		-40,
+		-100
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 2
 }

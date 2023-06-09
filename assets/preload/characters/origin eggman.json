@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-4,
 				124
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "eggy idle"
+			"fps": 24,
+			"name": "eggy idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-8,
 				46
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "eggy down"
+			"fps": 24,
+			"name": "eggy down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				205,
 				133
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "eggy left"
+			"fps": 24,
+			"name": "eggy left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-70,
 				90
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "eggy right"
+			"fps": 24,
+			"name": "eggy right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-6,
 				416
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "eggy up"
+			"fps": 24,
+			"name": "eggy up",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/origin",
 	"position": [
-		-170,
-		-20
+		-40,
+		80
 	],
 	"healthicon": "origin",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		81
 	],
 	"camera_position": [
-		90,
-		120
+		-20,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 2
+	"scale": 4
 }

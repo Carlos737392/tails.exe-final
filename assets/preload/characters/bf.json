@@ -1,110 +1,110 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-7,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Bf idle dance"
+			"fps": 24,
+			"name": "Bf idle dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-7,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Bf left note"
+			"fps": 24,
+			"name": "Bf left note",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				13,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Bf down note"
+			"fps": 24,
+			"name": "Bf down note",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-8,
 				41
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Bf up note"
+			"fps": 24,
+			"name": "Bf up note",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-8,
 				16
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Bf right note"
+			"fps": 24,
+			"name": "Bf right note",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				13,
 				0
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Bf down pose MISS",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Bf down pose MISS"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-8,
 				41
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Bf up pose MISS",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Bf up pose MISS"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-8,
 				16
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Bf right pose MISS",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Bf right pose MISS"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				11,
 				23
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Bf left pose MISS",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Bf left pose MISS"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/bf",
 	"position": [
-		-30,
-		280
+		80,
+		400
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -114,9 +114,9 @@
 		209
 	],
 	"camera_position": [
-		-80,
-		20
+		30,
+		-100
 	],
 	"sing_duration": 7.99999999999998,
-	"scale": 1
+	"scale": 2
 }
