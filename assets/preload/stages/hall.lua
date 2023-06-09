@@ -2,7 +2,7 @@ function onCreate()
 	-- background shit
 	makeLuaSprite('hall', 'stages/hall/hall', -500, -400);
 	setScrollFactor('hall', 1, 1);
-	scaleObject('hall', 1.7, 1.7);
+	scaleObject('hall', 3.4, 3.4);
 
 	addLuaSprite('hall', false);
 

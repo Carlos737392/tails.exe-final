@@ -2,19 +2,19 @@ function onCreate()
 	-- background shit
 	makeLuaSprite('sky', 'stages/sbz/sky', -900, -400);
 	setScrollFactor('sky', 0.4, 0.4);
-	scaleObject('sky', 1.7, 1.7);
+	scaleObject('sky', 6.8, 6.8);
 
 	makeLuaSprite('city', 'stages/sbz/destroyed-city', -600, -100);
 	setScrollFactor('city', 0.6, 0.6);
-	scaleObject('city', 1.4, 1.4);
+	scaleObject('city', 5.6, 5.6);
 
 	makeLuaSprite('caps', 'stages/sbz/Capsules', -900, -200);
 	setScrollFactor('caps', 0.78, 0.78);
-	scaleObject('caps', 1.4, 1.4);
+	scaleObject('caps', 5.6, 5.6);
 	
 	makeLuaSprite('floor', 'stages/sbz/floor', -400, -50);
 	setScrollFactor('floor', 1, 1);
-	scaleObject('floor', 1.3, 1.3);
+	scaleObject('floor', 5.2, 5.2);
 
 
 	addLuaSprite('sky', false);
