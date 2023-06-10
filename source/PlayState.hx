@@ -665,7 +665,7 @@ class PlayState extends MusicBeatState
 				bg.antialiasing = ClientPrefs.globalAntialiasing;
 				add(bg);
 
-				var grd:BGSprite = new BGSprite('stages/ghz/groundHappy', -300, -400, 1, 1);
+				var grd:BGSprite = new BGSprite('stages/ghz/groundHappy', 700, 600, 1, 1);
 				grd.setGraphicSize(Std.int(grd.width * 2));
 				grd.scale.set(2, 2);
 				grd.updateHitbox();
@@ -691,7 +691,7 @@ class PlayState extends MusicBeatState
 					bg2.visible = false;
 					add(bg2);
 
-					grd2 = new BGSprite('stages/burningGhz/groundBurn', -300, -400, 1, 1);
+					grd2 = new BGSprite('stages/burningGhz/groundBurn', 700, 600, 1, 1);
 					grd2.setGraphicSize(Std.int(grd2.width * 2));
 					grd2.scale.set(2, 2);
 					grd2.updateHitbox();
@@ -808,7 +808,7 @@ class PlayState extends MusicBeatState
 				bg.antialiasing = ClientPrefs.globalAntialiasing;
 				add(bg);
 
-				var grd:BGSprite = new BGSprite('stages/burningGhz/groundBurn', -300, -400, 1, 1);
+				var grd:BGSprite = new BGSprite('stages/burningGhz/groundBurn', 700, 600, 1, 1);
 				grd.setGraphicSize(Std.int(grd.width * 2));
 				grd.scale.set(2, 2);
 				grd.updateHitbox();
@@ -840,7 +840,7 @@ class PlayState extends MusicBeatState
 				bgS.antialiasing = ClientPrefs.globalAntialiasing;
 				add(bgS);
 
-				grdS = new BGSprite('stages/ghzSun/ground', -300, -400, 1, 1);
+				grdS = new BGSprite('stages/ghzSun/ground', 700, 600, 1, 1);
 				grdS.setGraphicSize(Std.int(grdS.width * 2));
 				grdS.scale.set(2, 2);
 				grdS.updateHitbox();
@@ -854,7 +854,7 @@ class PlayState extends MusicBeatState
 				bg2.visible = false;
 				add(bg2);
 
-				grd2 = new BGSprite('stages/ghz/groundHappy', -300, -400, 1, 1);
+				grd2 = new BGSprite('stages/ghz/groundHappy', 700, 600, 1, 1);
 				grd2.setGraphicSize(Std.int(grd2.width * 2));
 				grd2.scale.set(2, 2);
 				grd2.updateHitbox();
